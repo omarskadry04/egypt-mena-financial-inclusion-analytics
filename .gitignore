@@ -1,0 +1,58 @@
+# Python / Jupyter / Anaconda generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipython/
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+
+# OS, editor, and temporary working files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+tmp/
+temp/
+*.tmp
+*.log
+~$*
+
+# Raw downloads are retrieved separately; preserve source documentation
+/data/raw/*
+!/data/raw/README.md
+
+# SQLite transient files, never the final database
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Power BI local caches and obsolete authoring artifacts
+**/.pbi/
+*.pbix.tmp
+*.pbix.lock
+*.pbit.tmp
+/powerbi/*_backup.pbix
+/powerbi/Financial_Inclusion_Analytics_Project/
+/powerbi/*_MANIFEST.json
+/powerbi/*_BASELINE.json
+/powerbi/*VALIDATION.json
+/powerbi/*-schema.json
+/powerbi/source_validation_snapshot.json
+/powerbi/build_report.mjs
+/powerbi/redesign_report.mjs
+/powerbi/final_presentation_patch.py
+/powerbi/Financial_Inclusion_Theme.json
+/powerbi/VALIDATION_QUERY.dax
+/powerbi/preview/page-*.png
+/powerbi.zip

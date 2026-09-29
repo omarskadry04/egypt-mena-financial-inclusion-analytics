@@ -1,0 +1,35 @@
+metric_code,metric_name,segment,year,value,unit,previous_year,year_over_year_change,change_unit
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2016,0.2739999999999999,proportion,,,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2017,0.3379999999999999,proportion,2016.0,6.4,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2018,0.385,proportion,2017.0,4.7,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2019,0.501,proportion,2018.0,11.6,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2020,0.527,proportion,2019.0,2.6,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2021,0.562,proportion,2020.0,3.5,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2022,0.648,proportion,2021.0,8.6,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2023,0.7070000000000001,proportion,2022.0,5.9,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2024,0.748,proportion,2023.0,4.1,percentage points
+financial_inclusion_rate,Overall financial inclusion rate,All citizens aged 15+,2025,0.7759999999999999,proportion,2024.0,2.8,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2016,0.191,proportion,,,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2017,0.243,proportion,2016.0,5.2,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2018,0.282,proportion,2017.0,3.9,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2019,0.444,proportion,2018.0,16.2,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2020,0.4639999999999999,proportion,2019.0,2.0,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2021,0.502,proportion,2020.0,3.8,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2022,0.5760000000000001,proportion,2021.0,7.4,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2023,0.627,proportion,2022.0,5.1,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2024,0.688,proportion,2023.0,6.1,percentage points
+financial_inclusion_rate_women,Women's financial inclusion rate,Women aged 15+,2025,0.7140000000000001,proportion,2024.0,2.6,percentage points
+financial_inclusion_rate_youth,Youth financial inclusion rate,Youth aged 15-35,2020,0.363,proportion,,,percentage points
+financial_inclusion_rate_youth,Youth financial inclusion rate,Youth aged 15-35,2021,0.397,proportion,2020.0,3.4,percentage points
+financial_inclusion_rate_youth,Youth financial inclusion rate,Youth aged 15-35,2022,0.466,proportion,2021.0,6.9,percentage points
+financial_inclusion_rate_youth,Youth financial inclusion rate,Youth aged 15-35,2023,0.515,proportion,2022.0,4.9,percentage points
+financial_inclusion_rate_youth,Youth financial inclusion rate,Youth aged 15-35,2024,0.531,proportion,2023.0,1.6,percentage points
+financial_inclusion_rate_youth,Youth financial inclusion rate,Youth aged 15-35,2025,0.568,proportion,2024.0,3.7,percentage points
+mobile_wallet_transaction_value,Mobile-wallet transaction value,All mobile-wallet transactions,2025,4.0,EGP trillion,,,EGP trillion
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2019,15.2,million wallets,,,million wallets
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2020,19.8,million wallets,2019.0,4.6,million wallets
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2021,25.2,million wallets,2020.0,5.4,million wallets
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2022,30.4,million wallets,2021.0,5.2,million wallets
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2023,39.4,million wallets,2022.0,9.0,million wallets
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2024,50.4,million wallets,2023.0,11.0,million wallets
+registered_mobile_wallets,Registered mobile wallets,All registered wallets,2025,60.0,million wallets,2024.0,9.6,million wallets

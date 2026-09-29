@@ -1,0 +1,6 @@
+# Versions available in the environment used for the publication QA run.
+pandas==3.0.3
+openpyxl==3.1.5
+ipython==9.15.0
+# Notebook interface and kernel tooling; not an analytical dependency.
+notebook==7.5.7

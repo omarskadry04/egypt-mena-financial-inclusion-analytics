@@ -1,0 +1,29 @@
+demographic_group,comparison,indicator_code,indicator_name,first_value,second_value,signed_gap_pp,gap_magnitude_rank
+age_cat,age 25+ - ages 15-24,internet,Internet use,0.457411283225596,0.796757767264904,-33.93,1
+age_cat,age 25+ - ages 15-24,con9a,Smartphone ownership,0.483738131494205,0.754682163919834,-27.09,2
+age_cat,age 25+ - ages 15-24,borrow.any.t.d,Borrowed any money,0.613758898857159,0.417478377334508,19.63,3
+age_cat,age 25+ - ages 15-24,account.t.d,Account ownership,0.470131693568487,0.325398576308392,14.47,4
+age_cat,age 25+ - ages 15-24,g20.any,Made or received digital payment,0.395924101338499,0.274749801494406,12.12,5
+age_cat,age 25+ - ages 15-24,save.any.t.d,Saved any money,0.215334004696678,0.269901777843971,-5.46,6
+age_cat,age 25+ - ages 15-24,dig.acc,Digitally enabled account,0.286045857831305,0.272430846586902,1.36,7
+gender,men - women,con9a,Smartphone ownership,0.665476845304526,0.445643542711444,21.98,1
+gender,men - women,internet,Internet use,0.655887796650037,0.4394768181141,21.64,2
+gender,men - women,dig.acc,Digitally enabled account,0.347001321269106,0.216348573656022,13.07,3
+gender,men - women,save.any.t.d,Saved any money,0.293949609087674,0.164734789465289,12.92,4
+gender,men - women,g20.any,Made or received digital payment,0.410039978643591,0.315492439953685,9.45,5
+gender,men - women,account.t.d,Account ownership,0.459509692862618,0.402142182329493,5.74,6
+gender,men - women,borrow.any.t.d,Borrowed any money,0.543228232555749,0.578900313890659,-3.57,7
+income,richest 60% - poorest 40%,g20.any,Made or received digital payment,0.434271398593616,0.256466697185756,17.78,1
+income,richest 60% - poorest 40%,con9a,Smartphone ownership,0.627701826235591,0.449990145618346,17.77,2
+income,richest 60% - poorest 40%,internet,Internet use,0.617755655519323,0.445177709656584,17.26,3
+income,richest 60% - poorest 40%,save.any.t.d,Saved any money,0.298153384189969,0.127562336266494,17.06,4
+income,richest 60% - poorest 40%,account.t.d,Account ownership,0.497821903737145,0.33080949427223,16.7,5
+income,richest 60% - poorest 40%,dig.acc,Digitally enabled account,0.320018630692245,0.225749821462267,9.43,6
+income,richest 60% - poorest 40%,borrow.any.t.d,Borrowed any money,0.528062345766065,0.610232132326861,-8.22,7
+urbanicity,urban - rural,internet,Internet use,0.603751757452939,0.452732402334341,15.1,1
+urbanicity,urban - rural,con9a,Smartphone ownership,0.610108577894879,0.463323539856408,14.68,2
+urbanicity,urban - rural,dig.acc,Digitally enabled account,0.30815370627038,0.237255676259983,7.09,3
+urbanicity,urban - rural,account.t.d,Account ownership,0.452961043055506,0.392926546871256,6.0,4
+urbanicity,urban - rural,save.any.t.d,Saved any money,0.249944806825314,0.195187928003224,5.48,5
+urbanicity,urban - rural,g20.any,Made or received digital payment,0.372754943603671,0.346678979365228,2.61,6
+urbanicity,urban - rural,borrow.any.t.d,Borrowed any money,0.552647659492165,0.575270130160908,-2.26,7

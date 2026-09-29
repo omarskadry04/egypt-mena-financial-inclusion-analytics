@@ -1,0 +1,489 @@
+country,year,indicator_name,value,unit,source_series_code,country_code,source_country_name,country_role
+Algeria,2004,"Number of automated teller machines (ATMs), Per 100,000 adults",1.264461791213028,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2004,"Number of commercial bank branches, Per 100,000 adults",4.71775054514654,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2004,"Number of deposit accounts, Commercial banks, Per 1,000 adults",623.3771777465712,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2005,"Number of automated teller machines (ATMs), Per 100,000 adults",1.501466950224159,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2005,"Number of commercial bank branches, Per 100,000 adults",4.717073223225473,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2005,"Number of deposit accounts, Commercial banks, Per 1,000 adults",634.4240179247081,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2006,"Number of automated teller machines (ATMs), Per 100,000 adults",2.384926863350837,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2006,"Number of commercial bank branches, Per 100,000 adults",4.944360570361492,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2006,"Number of deposit accounts, Commercial banks, Per 1,000 adults",666.7866193470585,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",3.716164323831514,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2007,"Number of commercial bank branches, Per 100,000 adults",5.060481691250346,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2007,"Number of deposit accounts, Commercial banks, Per 1,000 adults",710.9575511687398,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",4.193822594632257,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2008,"Number of commercial bank branches, Per 100,000 adults",5.23036397455557,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2008,"Number of deposit accounts, Commercial banks, Per 1,000 adults",708.0554992054771,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",5.313301938857693,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2009,"Number of commercial bank branches, Per 100,000 adults",5.153941749030944,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2009,"Number of deposit accounts, Commercial banks, Per 1,000 adults",432.1726690200409,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",5.904405166225004,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2010,"Number of commercial bank branches, Per 100,000 adults",5.039695506397213,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2010,"Number of deposit accounts, Commercial banks, Per 1,000 adults",500.3022674515742,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",6.064272540222447,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2011,"Number of commercial bank branches, Per 100,000 adults",5.152014525540402,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2011,"Number of deposit accounts, Commercial banks, Per 1,000 adults",513.8501890636041,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",6.170003552069942,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2012,"Number of commercial bank branches, Per 100,000 adults",5.192504478305437,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2012,"Number of deposit accounts, Commercial banks, Per 1,000 adults",543.6903133002126,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",6.478832640315408,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2013,"Number of commercial bank branches, Per 100,000 adults",5.190305031403517,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2013,"Number of deposit accounts, Commercial banks, Per 1,000 adults",556.3295407912008,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",7.582983599156061,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2014,"Number of commercial bank branches, Per 100,000 adults",5.194557973998149,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2014,"Number of deposit accounts, Commercial banks, Per 1,000 adults",572.4417881946298,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",8.328203183648466,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2015,"Number of commercial bank branches, Per 100,000 adults",5.243422638669161,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2015,"Number of deposit accounts, Commercial banks, Per 1,000 adults",559.4407630930094,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",8.552171527602212,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2016,"Number of commercial bank branches, Per 100,000 adults",5.243109625123565,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2016,"Number of deposit accounts, Commercial banks, Per 1,000 adults",544.1869313721742,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",9.10112396484131,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2017,"Number of commercial bank branches, Per 100,000 adults",5.207979514869689,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2017,"Number of deposit accounts, Commercial banks, Per 1,000 adults",522.1794185580204,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",9.50400669535994,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2018,"Number of commercial bank branches, Per 100,000 adults",5.275500518177764,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2018,"Number of deposit accounts, Commercial banks, Per 1,000 adults",509.5776847003561,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",9.287553718957623,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2019,"Number of commercial bank branches, Per 100,000 adults",5.288144605846077,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2019,"Number of deposit accounts, Commercial banks, Per 1,000 adults",565.8200173989281,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",9.9479861500394,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2020,"Number of commercial bank branches, Per 100,000 adults",5.246495665928371,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2020,"Number of deposit accounts, Commercial banks, Per 1,000 adults",512.4182385524452,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",9.873115748360185,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2021,"Number of commercial bank branches, Per 100,000 adults",5.251863732504729,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2021,"Number of deposit accounts, Commercial banks, Per 1,000 adults",512.7519390825202,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",11.57333072191512,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2022,"Number of commercial bank branches, Per 100,000 adults",5.23979368948245,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2022,"Number of deposit accounts, Commercial banks, Per 1,000 adults",526.0869869342183,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",12.01756263092679,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2023,"Number of commercial bank branches, Per 100,000 adults",5.221768378095006,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2023,"Number of deposit accounts, Commercial banks, Per 1,000 adults",546.2853239201589,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",12.08916091902641,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2024,"Number of commercial bank branches, Per 100,000 adults",5.190704903857905,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2024,"Number of deposit accounts, Commercial banks, Per 1,000 adults",579.5968689471797,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2025,"Number of automated teller machines (ATMs), Per 100,000 adults",14.0523220507016,"per 100,000 adults",DZA.FA18N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2025,"Number of commercial bank branches, Per 100,000 adults",5.150412192421566,"per 100,000 adults",DZA.FA26N.PHTADLT_NUM.A,DZA,Algeria,Peer market
+Algeria,2025,"Number of deposit accounts, Commercial banks, Per 1,000 adults",573.6256236376003,"per 1,000 adults",DZA.FA30N_COMBANK.PTADLT_NUM.A,DZA,Algeria,Peer market
+Egypt,2004,"Number of automated teller machines (ATMs), Per 100,000 adults",2.656329475269129,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2004,"Number of commercial bank branches, Per 100,000 adults",3.811255334081794,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2005,"Number of automated teller machines (ATMs), Per 100,000 adults",3.35190913203156,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2005,"Number of commercial bank branches, Per 100,000 adults",3.81957070554255,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2006,"Number of automated teller machines (ATMs), Per 100,000 adults",4.445423007348435,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2006,"Number of commercial bank branches, Per 100,000 adults",3.926692449467618,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2006,"Number of deposit accounts, Commercial banks, Per 1,000 adults",371.6238959945623,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",5.436359925144711,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2007,"Number of commercial bank branches, Per 100,000 adults",4.223177175218014,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2007,"Number of deposit accounts, Commercial banks, Per 1,000 adults",375.3786436169088,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",6.493286606905817,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2008,"Number of commercial bank branches, Per 100,000 adults",4.469405067091017,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2008,"Number of deposit accounts, Commercial banks, Per 1,000 adults",385.1575499017509,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",7.721825135218748,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2009,"Number of commercial bank branches, Per 100,000 adults",4.600392609704436,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2009,"Number of deposit accounts, Commercial banks, Per 1,000 adults",375.9968489515285,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",8.692039995283473,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2010,"Number of commercial bank branches, Per 100,000 adults",4.635394073402574,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2010,"Number of deposit accounts, Commercial banks, Per 1,000 adults",368.4443249687097,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",9.287698526322394,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2011,"Number of commercial bank branches, Per 100,000 adults",4.649148444518931,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2011,"Number of deposit accounts, Commercial banks, Per 1,000 adults",363.5850466852578,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",10.37003801287046,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2012,"Number of commercial bank branches, Per 100,000 adults",4.59469262180525,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2012,"Number of deposit accounts, Commercial banks, Per 1,000 adults",379.811017422943,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",10.97477594575402,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2013,"Number of commercial bank branches, Per 100,000 adults",4.575642560614154,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2013,"Number of deposit accounts, Commercial banks, Per 1,000 adults",431.376371889282,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",12.07481955722581,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2014,"Number of commercial bank branches, Per 100,000 adults",4.5665675609426,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2014,"Number of deposit accounts, Commercial banks, Per 1,000 adults",439.2220251731664,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",13.73108048852657,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2015,"Number of commercial bank branches, Per 100,000 adults",4.623648209034827,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2015,"Number of deposit accounts, Commercial banks, Per 1,000 adults",449.0800192335959,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2015,"Number of registered mobile money accounts, Per 1,000 adults",63.17923351914989,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",15.70256906614976,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2016,"Number of commercial bank branches, Per 100,000 adults",4.744948402718768,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2016,"Number of deposit accounts, Commercial banks, Per 1,000 adults",463.8754828436177,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2016,"Number of registered mobile money accounts, Per 1,000 adults",109.8667169387375,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",17.72483686771084,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2017,"Number of commercial bank branches, Per 100,000 adults",4.880638606954775,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2017,"Number of deposit accounts, Commercial banks, Per 1,000 adults",661.4771978413722,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2017,"Number of registered mobile money accounts, Per 1,000 adults",141.0589192761496,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",18.75719788250301,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2018,"Number of commercial bank branches, Per 100,000 adults",4.996794517879899,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2018,"Number of deposit accounts, Commercial banks, Per 1,000 adults",720.9608826633032,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2018,"Number of registered mobile money accounts, Per 1,000 adults",187.5719788250301,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",20.10042674392613,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2019,"Number of commercial bank branches, Per 100,000 adults",6.65390317462651,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2019,"Number of deposit accounts, Commercial banks, Per 1,000 adults",780.2335500412948,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2019,"Number of registered mobile money accounts, Per 1,000 adults",224.8123642276938,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",22.06979267916661,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2020,"Number of commercial bank branches, Per 100,000 adults",6.760889699945797,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2020,"Number of deposit accounts, Commercial banks, Per 1,000 adults",787.1748999558456,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2020,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",313.3878901133217,"per 1,000 adults",EGY.FA37N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2020,"Number of registered mobile money accounts, Per 1,000 adults",292.2279327001215,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",27.60935443959625,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2021,"Number of commercial bank branches, Per 100,000 adults",6.792708534155424,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2021,"Number of deposit accounts, Commercial banks, Per 1,000 adults",763.3060237312377,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2021,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",387.5096465391317,"per 1,000 adults",EGY.FA37N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2021,"Number of registered mobile money accounts, Per 1,000 adults",366.3373635720865,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",31.31056314245607,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2022,"Number of commercial bank branches, Per 100,000 adults",6.64966544645472,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2022,"Number of deposit accounts, Commercial banks, Per 1,000 adults",793.0670847373693,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2022,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",571.5691651693402,"per 1,000 adults",EGY.FA37N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2022,"Number of registered mobile money accounts, Per 1,000 adults",432.7741905553321,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",32.46441223931356,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2023,"Number of commercial bank branches, Per 100,000 adults",6.58215086390207,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2023,"Number of deposit accounts, Commercial banks, Per 1,000 adults",806.3566923206427,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2023,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1294.134925584314,"per 1,000 adults",EGY.FA37N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2023,"Number of registered mobile money accounts, Per 1,000 adults",548.9121876355154,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",37.05836131119086,"per 100,000 adults",EGY.FA18N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2024,"Number of commercial bank branches, Per 100,000 adults",6.564351114438116,"per 100,000 adults",EGY.FA26N.PHTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2024,"Number of deposit accounts, Commercial banks, Per 1,000 adults",850.6386898051834,"per 1,000 adults",EGY.FA30N_COMBANK.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2024,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1553.251930558471,"per 1,000 adults",EGY.FA37N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Egypt,2024,"Number of registered mobile money accounts, Per 1,000 adults",688.2508061865032,"per 1,000 adults",EGY.FA67N.PTADLT_NUM.A,EGY,"Egypt, Arab Republic of",Main market
+Jordan,2004,"Number of commercial bank branches, Per 100,000 adults",17.37324825537841,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2004,"Number of deposit accounts, Commercial banks, Per 1,000 adults",735.367346910411,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2005,"Number of commercial bank branches, Per 100,000 adults",17.0233259969622,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2005,"Number of deposit accounts, Commercial banks, Per 1,000 adults",759.3189915403228,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2006,"Number of commercial bank branches, Per 100,000 adults",15.77438961388106,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2006,"Number of deposit accounts, Commercial banks, Per 1,000 adults",761.3317296455201,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",18.83217115726503,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2007,"Number of commercial bank branches, Per 100,000 adults",15.45924497984442,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2007,"Number of deposit accounts, Commercial banks, Per 1,000 adults",743.2481747550529,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",20.99654362843427,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2008,"Number of commercial bank branches, Per 100,000 adults",15.50339383591417,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2008,"Number of deposit accounts, Commercial banks, Per 1,000 adults",753.9817958831793,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",22.20085668410033,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2009,"Number of commercial bank branches, Per 100,000 adults",15.54280433196696,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2009,"Number of deposit accounts, Commercial banks, Per 1,000 adults",759.4635285340534,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",23.95912688573745,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2010,"Number of commercial bank branches, Per 100,000 adults",16.25109678844926,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2010,"Number of deposit accounts, Commercial banks, Per 1,000 adults",605.9978323306472,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",24.81475484908711,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2011,"Number of commercial bank branches, Per 100,000 adults",16.50170832069619,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2011,"Number of deposit accounts, Commercial banks, Per 1,000 adults",605.9199256676817,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",25.65657697419647,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2012,"Number of commercial bank branches, Per 100,000 adults",16.72549005279896,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2012,"Number of deposit accounts, Commercial banks, Per 1,000 adults",613.7382038609901,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",25.74289380864193,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2013,"Number of commercial bank branches, Per 100,000 adults",16.25260310605304,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2013,"Number of deposit accounts, Commercial banks, Per 1,000 adults",562.1992499980789,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",24.89730734921656,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2014,"Number of commercial bank branches, Per 100,000 adults",15.21113581026573,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2014,"Number of deposit accounts, Commercial banks, Per 1,000 adults",519.1819416193111,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2014,"Number of registered mobile money accounts, Per 1,000 adults",6.024483984072717,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",22.99798964463686,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2015,"Number of commercial bank branches, Per 100,000 adults",14.36771680105196,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2015,"Number of deposit accounts, Commercial banks, Per 1,000 adults",487.9348946359399,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2015,"Number of registered mobile money accounts, Per 1,000 adults",0.0466066876096763,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",25.11341826558225,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2016,"Number of commercial bank branches, Per 100,000 adults",13.96714701352358,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2016,"Number of deposit accounts, Commercial banks, Per 1,000 adults",494.2683616521305,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2016,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",241.3785269142806,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2016,"Number of registered mobile money accounts, Per 1,000 adults",1.518850997835245,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",25.98006534164379,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2017,"Number of commercial bank branches, Per 100,000 adults",13.62767126082799,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2017,"Number of deposit accounts, Commercial banks, Per 1,000 adults",493.1876472500279,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2017,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",677.6871869639386,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2017,"Number of registered mobile money accounts, Per 1,000 adults",31.87911202746532,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",27.78495111103037,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2018,"Number of commercial bank branches, Per 100,000 adults",13.72665981198802,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2018,"Number of deposit accounts, Commercial banks, Per 1,000 adults",496.8414984610136,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2018,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1158.572767662296,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2018,"Number of registered mobile money accounts, Per 1,000 adults",52.12843251205517,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",24.6347691817633,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2019,"Number of commercial bank branches, Per 100,000 adults",13.56738143077728,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2019,"Number of deposit accounts, Commercial banks, Per 1,000 adults",503.8520970031256,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2019,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2164.344809240651,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2019,"Number of registered mobile money accounts, Per 1,000 adults",70.83900630588293,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",28.69702750049576,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2020,"Number of commercial bank branches, Per 100,000 adults",13.22475240591137,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2020,"Number of deposit accounts, Commercial banks, Per 1,000 adults",502.7539690359896,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2020,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2648.099205651478,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2020,"Number of registered mobile money accounts, Per 1,000 adults",156.6332822752823,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",29.33777752769012,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2021,"Number of commercial bank branches, Per 100,000 adults",12.92466098828079,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2021,"Number of deposit accounts, Commercial banks, Per 1,000 adults",533.8515850619789,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2021,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",4167.338806956221,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2021,"Number of registered mobile money accounts, Per 1,000 adults",225.6393196255297,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",29.27987795792276,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2022,"Number of commercial bank branches, Per 100,000 adults",12.54106972195979,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2022,"Number of deposit accounts, Commercial banks, Per 1,000 adults",535.0515728678519,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2022,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",5339.651192698751,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2022,"Number of registered mobile money accounts, Per 1,000 adults",316.9203930178311,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",30.20142673777052,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2023,"Number of commercial bank branches, Per 100,000 adults",12.08819731802179,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2023,"Number of deposit accounts, Commercial banks, Per 1,000 adults",594.2518397321123,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2023,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",10820.45315359586,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2023,"Number of registered mobile money accounts, Per 1,000 adults",385.2724572902761,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",30.36284347030322,"per 100,000 adults",JOR.FA18N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2024,"Number of commercial bank branches, Per 100,000 adults",11.81054684330051,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2024,"Number of deposit accounts, Commercial banks, Per 1,000 adults",594.3469179591475,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2024,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",15468.8038013481,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2024,"Number of registered mobile money accounts, Per 1,000 adults",378.6425112268861,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2025,"Number of commercial bank branches, Per 100,000 adults",11.53959741975596,"per 100,000 adults",JOR.FA26N.PHTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2025,"Number of deposit accounts, Commercial banks, Per 1,000 adults",639.9140747649025,"per 1,000 adults",JOR.FA30N_COMBANK.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2025,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",26153.59179295873,"per 1,000 adults",JOR.FA37N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Jordan,2025,"Number of registered mobile money accounts, Per 1,000 adults",432.8262998367918,"per 1,000 adults",JOR.FA67N.PTADLT_NUM.A,JOR,Jordan,Peer market
+Morocco,2004,"Number of automated teller machines (ATMs), Per 100,000 adults",8.456876199363291,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2004,"Number of commercial bank branches, Per 100,000 adults",10.03856178847409,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2004,"Number of deposit accounts, Commercial banks, Per 1,000 adults",326.548979465118,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2005,"Number of automated teller machines (ATMs), Per 100,000 adults",15.00953941745549,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2005,"Number of commercial bank branches, Per 100,000 adults",10.72657477040627,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2005,"Number of deposit accounts, Commercial banks, Per 1,000 adults",307.1094051220808,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2006,"Number of automated teller machines (ATMs), Per 100,000 adults",12.9431875197284,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2006,"Number of commercial bank branches, Per 100,000 adults",11.5738357966267,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2006,"Number of deposit accounts, Commercial banks, Per 1,000 adults",340.9780519649283,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",14.35149443035183,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2007,"Number of commercial bank branches, Per 100,000 adults",12.70173890665784,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2007,"Number of deposit accounts, Commercial banks, Per 1,000 adults",384.0489779787508,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",16.35897828195747,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2008,"Number of commercial bank branches, Per 100,000 adults",14.22676645297817,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2008,"Number of deposit accounts, Commercial banks, Per 1,000 adults",413.1670256190435,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",18.3447948459626,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2009,"Number of commercial bank branches, Per 100,000 adults",19.67284466589233,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2009,"Number of deposit accounts, Commercial banks, Per 1,000 adults",661.086334128304,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",19.77369237485961,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2010,"Number of commercial bank branches, Per 100,000 adults",20.90921134292085,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2010,"Number of deposit accounts, Commercial banks, Per 1,000 adults",682.5287354821616,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",21.49226751079715,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2011,"Number of commercial bank branches, Per 100,000 adults",21.95428281556747,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2011,"Number of deposit accounts, Commercial banks, Per 1,000 adults",725.9195591141952,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",23.04130692851174,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2012,"Number of commercial bank branches, Per 100,000 adults",22.99923003492424,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2012,"Number of deposit accounts, Commercial banks, Per 1,000 adults",768.2336115864281,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",24.39753449520743,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2013,"Number of commercial bank branches, Per 100,000 adults",23.72270026430317,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2013,"Number of deposit accounts, Commercial banks, Per 1,000 adults",806.9954227194743,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",25.41375418140643,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2014,"Number of commercial bank branches, Per 100,000 adults",24.19076312359091,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2014,"Number of deposit accounts, Commercial banks, Per 1,000 adults",869.0665773502708,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",26.22696524085545,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2015,"Number of commercial bank branches, Per 100,000 adults",24.73665981822452,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2015,"Number of deposit accounts, Commercial banks, Per 1,000 adults",925.333850508146,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",26.99011649711418,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2016,"Number of commercial bank branches, Per 100,000 adults",24.93647766673707,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2016,"Number of deposit accounts, Commercial banks, Per 1,000 adults",955.73142107771,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",27.37647743516359,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2017,"Number of commercial bank branches, Per 100,000 adults",25.00252403091831,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2017,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1008.91285018249,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",28.02617842697892,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2018,"Number of commercial bank branches, Per 100,000 adults",25.09629120495149,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2018,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1024.572987201122,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",28.89173753991162,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2019,"Number of commercial bank branches, Per 100,000 adults",24.90693202081177,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2019,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1071.890293825897,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2019,"Number of registered mobile money accounts, Per 1,000 adults",19.96436900756407,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",28.95893092643454,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2020,"Number of commercial bank branches, Per 100,000 adults",24.46569106197612,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2020,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1104.138060486273,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2020,"Number of registered mobile money accounts, Per 1,000 adults",99.75205927991264,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",29.32323235382166,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2021,"Number of commercial bank branches, Per 100,000 adults",22.48729997511588,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2021,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1037.326000407866,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2021,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",131.8150201868665,"per 1,000 adults",MAR.FA37N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2021,"Number of registered mobile money accounts, Per 1,000 adults",200.6487598968679,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",29.54945704783671,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2022,"Number of commercial bank branches, Per 100,000 adults",21.61427395295077,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2022,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1176.238268941992,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2022,"Number of registered mobile money accounts, Per 1,000 adults",246.5869794710989,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",28.23189806546072,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2023,"Number of commercial bank branches, Per 100,000 adults",20.91849209040804,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2023,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1245.981140016591,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2023,"Number of registered mobile money accounts, Per 1,000 adults",369.4671036546237,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",28.45706057667444,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2024,"Number of commercial bank branches, Per 100,000 adults",20.21549470175719,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2024,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1244.274433409119,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2024,"Number of registered mobile money accounts, Per 1,000 adults",486.9813803111534,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2025,"Number of automated teller machines (ATMs), Per 100,000 adults",28.86620517380635,"per 100,000 adults",MAR.FA18N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2025,"Number of commercial bank branches, Per 100,000 adults",19.39024194249176,"per 100,000 adults",MAR.FA26N.PHTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2025,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1318.365613413122,"per 1,000 adults",MAR.FA30N_COMBANK.PTADLT_NUM.A,MAR,Morocco,Peer market
+Morocco,2025,"Number of registered mobile money accounts, Per 1,000 adults",566.6621837892985,"per 1,000 adults",MAR.FA67N.PTADLT_NUM.A,MAR,Morocco,Peer market
+Saudi Arabia,2004,"Number of automated teller machines (ATMs), Per 100,000 adults",31.83593262138962,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2004,"Number of commercial bank branches, Per 100,000 adults",9.525956447140947,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2005,"Number of automated teller machines (ATMs), Per 100,000 adults",33.38605632958296,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2005,"Number of commercial bank branches, Per 100,000 adults",9.00870482476541,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2006,"Number of automated teller machines (ATMs), Per 100,000 adults",41.57496840842691,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2006,"Number of commercial bank branches, Per 100,000 adults",8.925042568349584,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",48.61070564596945,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2007,"Number of commercial bank branches, Per 100,000 adults",8.828936329706767,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",54.16546627190175,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2008,"Number of commercial bank branches, Per 100,000 adults",8.703750287028853,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",57.45744511052734,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2009,"Number of commercial bank branches, Per 100,000 adults",8.887136484934832,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2009,"Number of deposit accounts, Commercial banks, Per 1,000 adults",878.1142223980786,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",62.72137591741177,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2010,"Number of commercial bank branches, Per 100,000 adults",9.288641063745317,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2010,"Number of deposit accounts, Commercial banks, Per 1,000 adults",924.5246630130576,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",64.14155932023031,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2011,"Number of commercial bank branches, Per 100,000 adults",9.011218558247553,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2011,"Number of deposit accounts, Commercial banks, Per 1,000 adults",902.9393635484817,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",65.90404201434522,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2012,"Number of commercial bank branches, Per 100,000 adults",8.813473208337546,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2012,"Number of deposit accounts, Commercial banks, Per 1,000 adults",878.6272756258214,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",67.7337401943909,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2013,"Number of commercial bank branches, Per 100,000 adults",8.645407161597687,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2013,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1028.529746055313,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",73.47410187073417,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2014,"Number of commercial bank branches, Per 100,000 adults",9.148747410045011,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2014,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1045.821207809867,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",77.08860297171798,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2015,"Number of commercial bank branches, Per 100,000 adults",8.947344675170658,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2015,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1076.622257878318,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",76.96047307177271,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2016,"Number of commercial bank branches, Per 100,000 adults",8.833222520062021,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2016,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1180.261718960592,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",79.0841338626545,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2017,"Number of commercial bank branches, Per 100,000 adults",9.033010217007503,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2017,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1266.441836451526,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",83.23988058540824,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2018,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1385.86734284981,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2018,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",22484.83129701901,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",84.58894819990893,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2019,"Number of commercial bank branches, Per 100,000 adults",9.412211639021749,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2019,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1520.08127384272,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2019,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",28611.66272256819,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",77.83668876711388,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2020,"Number of commercial bank branches, Per 100,000 adults",8.67309734937129,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2020,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1591.793123105791,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2020,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",41025.89968072027,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",71.85320196265562,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2021,"Number of commercial bank branches, Per 100,000 adults",8.560363942722088,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2021,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1939.030534223171,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2021,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",62157.97458922631,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",67.02606097478437,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2022,"Number of commercial bank branches, Per 100,000 adults",8.059130093208335,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2022,"Number of deposit accounts, Commercial banks, Per 1,000 adults",2118.655471487363,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2022,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",88755.83524943894,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",62.36602728523467,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2023,"Number of commercial bank branches, Per 100,000 adults",7.54068363001239,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2023,"Number of deposit accounts, Commercial banks, Per 1,000 adults",2272.235840060107,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2023,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",95684.31477213668,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",56.05703411844913,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2024,"Number of commercial bank branches, Per 100,000 adults",7.187943412999148,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2024,"Number of deposit accounts, Commercial banks, Per 1,000 adults",2573.011581699325,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2024,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",104483.0519598692,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2025,"Number of automated teller machines (ATMs), Per 100,000 adults",51.96175269392686,"per 100,000 adults",SAU.FA18N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2025,"Number of commercial bank branches, Per 100,000 adults",6.862605746274381,"per 100,000 adults",SAU.FA26N.PHTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2025,"Number of deposit accounts, Commercial banks, Per 1,000 adults",2805.270339570089,"per 1,000 adults",SAU.FA30N_COMBANK.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Saudi Arabia,2025,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",140482.9707165035,"per 1,000 adults",SAU.FA37N.PTADLT_NUM.A,SAU,Saudi Arabia,Advanced benchmark
+Tunisia,2004,"Number of automated teller machines (ATMs), Per 100,000 adults",8.256317996316474,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2004,"Number of commercial bank branches, Per 100,000 adults",11.71994408257607,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2005,"Number of automated teller machines (ATMs), Per 100,000 adults",9.609313520660024,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2005,"Number of commercial bank branches, Per 100,000 adults",12.00834652581795,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2006,"Number of automated teller machines (ATMs), Per 100,000 adults",10.98057863630547,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2006,"Number of commercial bank branches, Per 100,000 adults",12.80851439512374,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",14.0413044116502,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2007,"Number of commercial bank branches, Per 100,000 adults",13.53071152395383,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",15.67515443989943,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2008,"Number of commercial bank branches, Per 100,000 adults",14.27873217438672,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",17.48489740435519,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2009,"Number of commercial bank branches, Per 100,000 adults",14.8540966593422,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",20.33973234382578,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2010,"Number of commercial bank branches, Per 100,000 adults",16.36980868153689,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",21.08588045359471,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2011,"Number of commercial bank branches, Per 100,000 adults",16.83479255054374,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",22.18106894298039,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2012,"Number of commercial bank branches, Per 100,000 adults",17.38775312602083,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",23.00948384708127,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2013,"Number of commercial bank branches, Per 100,000 adults",18.01361345016471,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",24.33480172897003,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2014,"Number of commercial bank branches, Per 100,000 adults",19.10340715438468,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",26.1957900604856,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2015,"Number of commercial bank branches, Per 100,000 adults",19.83611848510759,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2015,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",93.54343079122351,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",27.53216241413082,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2016,"Number of commercial bank branches, Per 100,000 adults",20.49039341093594,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2016,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",222.0100071618254,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",29.77698616617527,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2017,"Number of commercial bank branches, Per 100,000 adults",21.54883357067949,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2017,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",278.7774773376765,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",30.56326254999714,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2018,"Number of commercial bank branches, Per 100,000 adults",21.9637996647344,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2018,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",449.4808783341638,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",32.09239010043096,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2019,"Number of commercial bank branches, Per 100,000 adults",22.15207025152383,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2019,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",434.3042686926928,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",32.851895694841,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2020,"Number of commercial bank branches, Per 100,000 adults",22.26170196898456,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2020,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",718.6509921395123,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",33.23691861799455,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2021,"Number of commercial bank branches, Per 100,000 adults",22.28698536281498,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2021,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1099.406922857499,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",33.31803926792407,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2022,"Number of commercial bank branches, Per 100,000 adults",22.50804034782761,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2022,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1375.224162211379,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2022,"Number of registered mobile money accounts, Per 1,000 adults",21.60991143146422,"per 1,000 adults",TUN.FA67N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",34.78584577277131,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2023,"Number of commercial bank branches, Per 100,000 adults",22.42043754671602,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2023,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1931.357449567303,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2023,"Number of registered mobile money accounts, Per 1,000 adults",28.20180823486292,"per 1,000 adults",TUN.FA67N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",35.43924667635089,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2024,"Number of commercial bank branches, Per 100,000 adults",22.3680086435304,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2024,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",1739.18247823596,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2024,"Number of registered mobile money accounts, Per 1,000 adults",39.71318765676237,"per 1,000 adults",TUN.FA67N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2025,"Number of automated teller machines (ATMs), Per 100,000 adults",34.96080470025771,"per 100,000 adults",TUN.FA18N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2025,"Number of commercial bank branches, Per 100,000 adults",22.27956735898242,"per 100,000 adults",TUN.FA26N.PHTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2025,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2048.682178952282,"per 1,000 adults",TUN.FA37N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+Tunisia,2025,"Number of registered mobile money accounts, Per 1,000 adults",49.68671940733596,"per 1,000 adults",TUN.FA67N.PTADLT_NUM.A,TUN,Tunisia,Peer market
+United Arab Emirates,2004,"Number of automated teller machines (ATMs), Per 100,000 adults",16.51381995155213,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2004,"Number of commercial bank branches, Per 100,000 adults",13.60123273879918,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2005,"Number of automated teller machines (ATMs), Per 100,000 adults",40.94327485927048,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2005,"Number of commercial bank branches, Per 100,000 adults",12.9636384230812,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2006,"Number of automated teller machines (ATMs), Per 100,000 adults",40.74894143171526,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2006,"Number of commercial bank branches, Per 100,000 adults",13.45438421236516,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2007,"Number of automated teller machines (ATMs), Per 100,000 adults",44.05860973131959,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2007,"Number of commercial bank branches, Per 100,000 adults",13.62239950856551,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2008,"Number of automated teller machines (ATMs), Per 100,000 adults",46.8129860330126,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2008,"Number of commercial bank branches, Per 100,000 adults",14.27481188450608,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2009,"Number of automated teller machines (ATMs), Per 100,000 adults",64.54624741317328,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2009,"Number of commercial bank branches, Per 100,000 adults",14.49107193938428,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2009,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1136.307362809632,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2010,"Number of automated teller machines (ATMs), Per 100,000 adults",65.80719228133118,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2010,"Number of commercial bank branches, Per 100,000 adults",15.19974531670981,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2010,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1229.901401283433,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2011,"Number of automated teller machines (ATMs), Per 100,000 adults",70.5970305589366,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2011,"Number of commercial bank branches, Per 100,000 adults",15.29715139627964,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2011,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1239.172823459874,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2012,"Number of automated teller machines (ATMs), Per 100,000 adults",73.04477179444108,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2012,"Number of commercial bank branches, Per 100,000 adults",15.36672069139511,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2012,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1201.832200938817,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2013,"Number of automated teller machines (ATMs), Per 100,000 adults",72.89296128124072,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2013,"Number of commercial bank branches, Per 100,000 adults",15.36316057878637,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2013,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1034.221557405629,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2014,"Number of automated teller machines (ATMs), Per 100,000 adults",72.32124179466497,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2014,"Number of commercial bank branches, Per 100,000 adults",15.08495470484966,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2014,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1261.721278380529,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2015,"Number of automated teller machines (ATMs), Per 100,000 adults",72.36658233087687,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2015,"Number of commercial bank branches, Per 100,000 adults",14.37718582350103,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2015,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1307.306621549352,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2016,"Number of automated teller machines (ATMs), Per 100,000 adults",70.5366530270691,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2016,"Number of commercial bank branches, Per 100,000 adults",13.33240952695508,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2016,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1312.616616541202,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2017,"Number of automated teller machines (ATMs), Per 100,000 adults",69.06284249738115,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2017,"Number of commercial bank branches, Per 100,000 adults",11.90558997408645,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2017,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1379.416824083576,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2018,"Number of automated teller machines (ATMs), Per 100,000 adults",68.11864847874347,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2018,"Number of commercial bank branches, Per 100,000 adults",11.3424036595758,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2018,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1372.510355242027,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2019,"Number of automated teller machines (ATMs), Per 100,000 adults",64.47255077340388,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2019,"Number of commercial bank branches, Per 100,000 adults",10.0849498254694,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2019,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1361.964090973868,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2020,"Number of automated teller machines (ATMs), Per 100,000 adults",56.38590092351996,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2020,"Number of commercial bank branches, Per 100,000 adults",8.568820764496927,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2020,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1511.817066897753,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2021,"Number of automated teller machines (ATMs), Per 100,000 adults",54.98814114940476,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2021,"Number of commercial bank branches, Per 100,000 adults",8.080604909580408,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2021,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1388.650452670233,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2022,"Number of automated teller machines (ATMs), Per 100,000 adults",52.59615375474269,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2022,"Number of commercial bank branches, Per 100,000 adults",7.510340978987207,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2022,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1442.897998161392,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2023,"Number of automated teller machines (ATMs), Per 100,000 adults",53.06233159351062,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2023,"Number of commercial bank branches, Per 100,000 adults",7.091699667203181,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2023,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1545.90513061668,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2024,"Number of automated teller machines (ATMs), Per 100,000 adults",51.96181625698498,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2024,"Number of commercial bank branches, Per 100,000 adults",6.705450500483758,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2024,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1676.183379097852,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2025,"Number of automated teller machines (ATMs), Per 100,000 adults",49.12314869459264,"per 100,000 adults",ARE.FA18N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2025,"Number of commercial bank branches, Per 100,000 adults",5.90263423918611,"per 100,000 adults",ARE.FA26N.PHTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark
+United Arab Emirates,2025,"Number of deposit accounts, Commercial banks, Per 1,000 adults",1822.8924417027,"per 1,000 adults",ARE.FA30N_COMBANK.PTADLT_NUM.A,ARE,United Arab Emirates,Supplementary benchmark

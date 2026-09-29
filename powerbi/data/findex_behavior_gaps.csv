@@ -1,0 +1,85 @@
+analysis_scope,country,country_role,year,demographic_group,demographic_subgroup,gap_name,first_indicator_code,second_indicator_code,first_value,second_value,signed_gap_pp
+national,Algeria,Peer market,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.427766256472914,0.259755215146925,16.8
+national,Egypt,Main market,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.327843607129398,0.228320485696311,9.95
+national,Jordan,Peer market,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.424930235275587,0.325323053709328,9.96
+national,Morocco,Peer market,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.28644459176479,0.167148762012259,11.93
+national,Saudi Arabia,Advanced benchmark,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.716981165899467,0.611679190586718,10.53
+national,Tunisia,Peer market,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.369065671682783,0.294126385875702,7.49
+national,United Arab Emirates,Supplementary benchmark,2017,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.882103911038117,0.840400657392158,4.17
+national,Algeria,Peer market,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.440970221449773,0.337417672200374,10.36
+national,Egypt,Main market,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.274440057212001,0.201970288405593,7.25
+national,Jordan,Peer market,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.471196643097766,0.363697384331537,10.75
+national,Morocco,Peer market,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.443728342386603,0.303017411414985,14.07
+national,Saudi Arabia,Advanced benchmark,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.74320746724648,0.73454579640307,0.87
+national,Tunisia,Peer market,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.36853236511337,0.276944988729278,9.16
+national,United Arab Emirates,Supplementary benchmark,2021,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.857421930087712,0.766119280152843,9.13
+national,Algeria,Peer market,2024,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.352901069097173,0.130934071096339,22.2
+national,Egypt,Main market,2024,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.431134368034247,0.363274534281143,6.79
+national,Jordan,Peer market,2024,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.464573138115455,0.382264798177564,8.23
+national,Morocco,Peer market,2024,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.443863291468524,0.319918303462495,12.39
+national,Saudi Arabia,Advanced benchmark,2024,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.788409517231945,0.757246348679077,3.12
+national,Tunisia,Peer market,2024,all,all,access_to_digital_usage_gap,account.t.d,g20.any,0.378444860328559,0.236811592605673,14.16
+egypt_demographic,Egypt,Main market,2024,gender,men,access_to_digital_usage_gap,account.t.d,g20.any,0.459509692862618,0.410039978643591,4.95
+egypt_demographic,Egypt,Main market,2024,gender,women,access_to_digital_usage_gap,account.t.d,g20.any,0.402142182329493,0.315492439953685,8.66
+egypt_demographic,Egypt,Main market,2024,income,richest 60%,access_to_digital_usage_gap,account.t.d,g20.any,0.497821903737145,0.434271398593616,6.36
+egypt_demographic,Egypt,Main market,2024,income,poorest 40%,access_to_digital_usage_gap,account.t.d,g20.any,0.33080949427223,0.256466697185756,7.43
+egypt_demographic,Egypt,Main market,2024,age_cat,age 25+,access_to_digital_usage_gap,account.t.d,g20.any,0.470131693568487,0.395924101338499,7.42
+egypt_demographic,Egypt,Main market,2024,age_cat,ages 15-24,access_to_digital_usage_gap,account.t.d,g20.any,0.325398576308392,0.274749801494406,5.06
+egypt_demographic,Egypt,Main market,2024,urbanicity,rural,access_to_digital_usage_gap,account.t.d,g20.any,0.392926546871256,0.346678979365228,4.62
+egypt_demographic,Egypt,Main market,2024,urbanicity,urban,access_to_digital_usage_gap,account.t.d,g20.any,0.452961043055506,0.372754943603671,8.02
+national,Algeria,Peer market,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.386612666277264,0.114222460304183,27.24
+national,Egypt,Main market,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.306392511396371,0.0623019330603222,24.41
+national,Jordan,Peer market,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.451707554751416,0.101086890870195,35.06
+national,Morocco,Peer market,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.213594272351452,0.0633061004731812,15.03
+national,Saudi Arabia,Advanced benchmark,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.441932638751051,0.143300410071456,29.86
+national,Tunisia,Peer market,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.39396338619623,0.183410805007582,21.06
+national,United Arab Emirates,Supplementary benchmark,2017,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.568147882893329,0.286678830182199,28.15
+national,Algeria,Peer market,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.456877651050778,0.160468576770232,29.64
+national,Egypt,Main market,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.207860694471219,0.0423989842540694,16.55
+national,Jordan,Peer market,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.241415492886164,0.0427909118232102,19.86
+national,Morocco,Peer market,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.346867110294518,0.0764646394126114,27.04
+national,Saudi Arabia,Advanced benchmark,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.63026741484836,0.355184328619625,27.51
+national,Tunisia,Peer market,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.44687274115615,0.147919194432218,29.9
+national,United Arab Emirates,Supplementary benchmark,2021,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.335979731139081,0.107703841924557,22.83
+national,Algeria,Peer market,2024,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.380608732279768,0.165519539074084,21.51
+national,Egypt,Main market,2024,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.230036909279873,0.137860563030967,9.22
+national,Jordan,Peer market,2024,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.316055780126099,0.110556397175889,20.55
+national,Morocco,Peer market,2024,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.216608809574067,0.0609311236735859,15.57
+national,Saudi Arabia,Advanced benchmark,2024,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.571088391712506,0.417206130135923,15.39
+national,Tunisia,Peer market,2024,all,all,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.482495360760963,0.217165995656519,26.53
+egypt_demographic,Egypt,Main market,2024,gender,men,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.293949609087674,0.192411113149202,10.15
+egypt_demographic,Egypt,Main market,2024,gender,women,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.164734789465289,0.0821241198751477,8.26
+egypt_demographic,Egypt,Main market,2024,income,richest 60%,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.298153384189969,0.188481736345287,10.97
+egypt_demographic,Egypt,Main market,2024,income,poorest 40%,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.127562336266494,0.0617059597919151,6.59
+egypt_demographic,Egypt,Main market,2024,age_cat,age 25+,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.215334004696678,0.127124228288349,8.82
+egypt_demographic,Egypt,Main market,2024,age_cat,ages 15-24,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.269901777843971,0.16697063247016,10.29
+egypt_demographic,Egypt,Main market,2024,urbanicity,rural,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.195187928003224,0.0970647947918502,9.81
+egypt_demographic,Egypt,Main market,2024,urbanicity,urban,saving_formalization_gap,save.any.t.d,fin17a.17a1.d,0.249944806825314,0.161165633785964,8.88
+national,Algeria,Peer market,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.288700674134992,0.0495204847714157,23.92
+national,Egypt,Main market,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.490587986387475,0.0876006470565479,40.3
+national,Jordan,Peer market,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.476769055554652,0.17803274975217,29.87
+national,Morocco,Peer market,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.264710059661177,0.0264006118497713,23.83
+national,Saudi Arabia,Advanced benchmark,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.543137700819369,0.210833118909467,33.23
+national,Tunisia,Peer market,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.450862233761047,0.117346727537602,33.35
+national,United Arab Emirates,Supplementary benchmark,2017,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.638642236789374,0.461270865440808,17.74
+national,Algeria,Peer market,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.3759191125686,0.0379430159935425,33.8
+national,Egypt,Main market,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.464418889124725,0.0750323293995022,38.94
+national,Jordan,Peer market,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.535250701537721,0.0991581944384388,43.61
+national,Morocco,Peer market,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.57039662936349,0.0505123610440499,51.99
+national,Saudi Arabia,Advanced benchmark,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.597271960770624,0.323777825768921,27.35
+national,Tunisia,Peer market,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.505834020543242,0.103271395350676,40.26
+national,United Arab Emirates,Supplementary benchmark,2021,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.435062262094794,0.239376850235466,19.57
+national,Algeria,Peer market,2024,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.341381414284105,0.0654423121864218,27.59
+national,Egypt,Main market,2024,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.560872485997733,0.104344197393916,45.65
+national,Jordan,Peer market,2024,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.652157130109157,0.1269150971558,52.52
+national,Morocco,Peer market,2024,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.576170489159961,0.0136658763082039,56.25
+national,Saudi Arabia,Advanced benchmark,2024,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.556948316914372,0.305368623114272,25.16
+national,Tunisia,Peer market,2024,all,all,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.435067900468424,0.0524655723312748,38.26
+egypt_demographic,Egypt,Main market,2024,gender,men,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.543228232555749,0.0903458552877628,45.29
+egypt_demographic,Egypt,Main market,2024,gender,women,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.578900313890659,0.118646854239434,46.03
+egypt_demographic,Egypt,Main market,2024,income,richest 60%,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.528062345766065,0.090571195758895,43.75
+egypt_demographic,Egypt,Main market,2024,income,poorest 40%,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.610232132326861,0.125064331010992,48.52
+egypt_demographic,Egypt,Main market,2024,age_cat,age 25+,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.613758898857159,0.115109154310385,49.86
+egypt_demographic,Egypt,Main market,2024,age_cat,ages 15-24,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.417478377334508,0.0751565229351094,34.23
+egypt_demographic,Egypt,Main market,2024,urbanicity,rural,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.575270130160908,0.0982258327945371,47.7
+egypt_demographic,Egypt,Main market,2024,urbanicity,urban,borrowing_formalization_gap,borrow.any.t.d,fin22a.22a1.22g.d,0.552647659492165,0.107839386381599,44.48

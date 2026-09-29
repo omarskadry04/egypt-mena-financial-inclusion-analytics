@@ -1,0 +1,5 @@
+indicator_code,indicator_name,egypt_rate,reporting_peers,peer_mean,egypt_minus_peer_mean_pp
+account.t.d,Account ownership,0.431134368034247,4,0.40994558975242773,2.12
+borrow.any.t.d,Borrowed any money,0.560872485997733,4,0.5011942335054118,5.97
+g20.any,Made or received digital payment,0.363274534281143,4,0.26748219133551776,9.58
+save.any.t.d,Saved any money,0.230036909279873,4,0.34894217068522426,-11.89

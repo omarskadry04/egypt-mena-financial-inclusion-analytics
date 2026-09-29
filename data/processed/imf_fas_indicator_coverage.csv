@@ -1,0 +1,41 @@
+indicator_name,year,"Egypt, Arab Republic of",Morocco,Tunisia,Algeria,Jordan,Saudi Arabia,United Arab Emirates,selected
+"Number of active mobile money accounts, Per 1,000 adults",2017,False,False,False,False,True,False,False,False
+"Number of active mobile money accounts, Per 1,000 adults",2021,True,False,False,False,False,False,False,False
+"Number of active mobile money accounts, Per 1,000 adults",2024,True,False,False,False,False,False,False,False
+"Number of active mobile money accounts, Per 1,000 adults",2025,False,False,False,False,False,False,False,False
+"Number of active mobile money agent outlets, Per 100,000 adults",2017,False,False,False,False,True,False,False,False
+"Number of active mobile money agent outlets, Per 100,000 adults",2021,False,False,False,False,False,False,False,False
+"Number of active mobile money agent outlets, Per 100,000 adults",2024,False,False,False,False,False,False,False,False
+"Number of active mobile money agent outlets, Per 100,000 adults",2025,False,False,False,False,False,False,False,False
+"Number of automated teller machines (ATMs), Per 100,000 adults",2017,True,True,True,True,True,True,True,True
+"Number of automated teller machines (ATMs), Per 100,000 adults",2021,True,True,True,True,True,True,True,True
+"Number of automated teller machines (ATMs), Per 100,000 adults",2024,True,True,True,True,True,True,True,True
+"Number of automated teller machines (ATMs), Per 100,000 adults",2025,False,True,True,True,False,True,True,True
+"Number of commercial bank branches, Per 100,000 adults",2017,True,True,True,True,True,True,True,True
+"Number of commercial bank branches, Per 100,000 adults",2021,True,True,True,True,True,True,True,True
+"Number of commercial bank branches, Per 100,000 adults",2024,True,True,True,True,True,True,True,True
+"Number of commercial bank branches, Per 100,000 adults",2025,False,True,True,True,True,True,True,True
+"Number of deposit accounts, Commercial banks, Per 1,000 adults",2017,True,True,False,True,True,True,True,True
+"Number of deposit accounts, Commercial banks, Per 1,000 adults",2021,True,True,False,True,True,True,True,True
+"Number of deposit accounts, Commercial banks, Per 1,000 adults",2024,True,True,False,True,True,True,True,True
+"Number of deposit accounts, Commercial banks, Per 1,000 adults",2025,False,True,False,True,True,True,True,True
+"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2017,False,False,True,False,True,False,False,True
+"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2021,True,True,True,False,True,True,False,True
+"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2024,True,False,True,False,True,True,False,True
+"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults",2025,False,False,True,False,True,True,False,True
+"Number of mobile money transactions (during the reference year), Per 1,000 adults",2017,True,False,False,False,True,False,False,False
+"Number of mobile money transactions (during the reference year), Per 1,000 adults",2021,True,True,False,False,True,False,False,False
+"Number of mobile money transactions (during the reference year), Per 1,000 adults",2024,True,True,True,False,True,False,False,False
+"Number of mobile money transactions (during the reference year), Per 1,000 adults",2025,False,True,True,False,False,False,False,False
+"Number of registered mobile money accounts, Per 1,000 adults",2017,True,False,False,False,True,False,False,True
+"Number of registered mobile money accounts, Per 1,000 adults",2021,True,True,False,False,True,False,False,True
+"Number of registered mobile money accounts, Per 1,000 adults",2024,True,True,True,False,True,False,False,True
+"Number of registered mobile money accounts, Per 1,000 adults",2025,False,True,True,False,True,False,False,True
+"Value of mobile and internet banking transactions (during the reference year), Percent of GDP",2017,False,False,True,False,True,False,False,False
+"Value of mobile and internet banking transactions (during the reference year), Percent of GDP",2021,True,True,True,False,True,True,False,False
+"Value of mobile and internet banking transactions (during the reference year), Percent of GDP",2024,True,False,True,False,True,True,False,False
+"Value of mobile and internet banking transactions (during the reference year), Percent of GDP",2025,False,False,True,False,True,True,False,False
+"Value of mobile money transactions (during the reference year), Percent of GDP",2017,True,False,False,False,True,False,False,False
+"Value of mobile money transactions (during the reference year), Percent of GDP",2021,True,True,False,False,True,False,False,False
+"Value of mobile money transactions (during the reference year), Percent of GDP",2024,True,True,True,False,True,False,False,False
+"Value of mobile money transactions (during the reference year), Percent of GDP",2025,False,True,True,False,False,False,False,False

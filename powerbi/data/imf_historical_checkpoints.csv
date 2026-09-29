@@ -1,0 +1,72 @@
+country,country_role,indicator_name,unit,year,value,previous_year,previous_value,change_from_previous_observed
+Algeria,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2017,9.10112396484131,,,
+Algeria,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2021,9.873115748360185,2017.0,9.10112396484131,0.772
+Algeria,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2024,12.08916091902641,2021.0,9.873115748360185,2.216
+Egypt,Main market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2017,17.72483686771084,,,
+Egypt,Main market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2021,27.60935443959625,2017.0,17.72483686771084,9.885
+Egypt,Main market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2024,37.05836131119086,2021.0,27.60935443959625,9.449
+Jordan,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2017,25.98006534164379,,,
+Jordan,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2021,29.33777752769012,2017.0,25.98006534164379,3.358
+Jordan,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2024,30.36284347030322,2021.0,29.33777752769012,1.025
+Morocco,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2017,27.37647743516359,,,
+Morocco,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2021,29.32323235382166,2017.0,27.37647743516359,1.947
+Morocco,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2024,28.45706057667444,2021.0,29.32323235382166,-0.866
+Saudi Arabia,Advanced benchmark,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2017,79.0841338626545,,,
+Saudi Arabia,Advanced benchmark,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2021,71.85320196265562,2017.0,79.0841338626545,-7.231
+Saudi Arabia,Advanced benchmark,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2024,56.05703411844913,2021.0,71.85320196265562,-15.796
+Tunisia,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2017,29.77698616617527,,,
+Tunisia,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2021,33.23691861799455,2017.0,29.77698616617527,3.46
+Tunisia,Peer market,"Number of automated teller machines (ATMs), Per 100,000 adults","per 100,000 adults",2024,35.43924667635089,2021.0,33.23691861799455,2.202
+Algeria,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2017,5.207979514869689,,,
+Algeria,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2021,5.251863732504729,2017.0,5.207979514869689,0.044
+Algeria,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2024,5.190704903857905,2021.0,5.251863732504729,-0.061
+Egypt,Main market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2017,4.880638606954775,,,
+Egypt,Main market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2021,6.792708534155424,2017.0,4.880638606954775,1.912
+Egypt,Main market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2024,6.564351114438116,2021.0,6.792708534155424,-0.228
+Jordan,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2017,13.62767126082799,,,
+Jordan,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2021,12.92466098828079,2017.0,13.62767126082799,-0.703
+Jordan,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2024,11.81054684330051,2021.0,12.92466098828079,-1.114
+Morocco,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2017,25.00252403091831,,,
+Morocco,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2021,22.48729997511588,2017.0,25.00252403091831,-2.515
+Morocco,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2024,20.21549470175719,2021.0,22.48729997511588,-2.272
+Saudi Arabia,Advanced benchmark,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2017,9.033010217007504,,,
+Saudi Arabia,Advanced benchmark,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2021,8.560363942722088,2017.0,9.033010217007504,-0.473
+Saudi Arabia,Advanced benchmark,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2024,7.187943412999148,2021.0,8.560363942722088,-1.372
+Tunisia,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2017,21.54883357067949,,,
+Tunisia,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2021,22.28698536281498,2017.0,21.54883357067949,0.738
+Tunisia,Peer market,"Number of commercial bank branches, Per 100,000 adults","per 100,000 adults",2024,22.3680086435304,2021.0,22.28698536281498,0.081
+Algeria,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2017,522.1794185580204,,,
+Algeria,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2021,512.7519390825202,2017.0,522.1794185580204,-9.427
+Algeria,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2024,579.5968689471797,2021.0,512.7519390825202,66.845
+Egypt,Main market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2017,661.4771978413722,,,
+Egypt,Main market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2021,763.3060237312377,2017.0,661.4771978413722,101.829
+Egypt,Main market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2024,850.6386898051834,2021.0,763.3060237312377,87.333
+Jordan,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2017,493.1876472500279,,,
+Jordan,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2021,533.8515850619789,2017.0,493.1876472500279,40.664
+Jordan,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2024,594.3469179591475,2021.0,533.8515850619789,60.495
+Morocco,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2017,1008.91285018249,,,
+Morocco,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2021,1037.326000407866,2017.0,1008.91285018249,28.413
+Morocco,Peer market,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2024,1244.274433409119,2021.0,1037.326000407866,206.948
+Saudi Arabia,Advanced benchmark,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2017,1266.441836451526,,,
+Saudi Arabia,Advanced benchmark,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2021,1939.030534223171,2017.0,1266.441836451526,672.589
+Saudi Arabia,Advanced benchmark,"Number of deposit accounts, Commercial banks, Per 1,000 adults","per 1,000 adults",2024,2573.011581699325,2021.0,1939.030534223171,633.981
+Egypt,Main market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2021,387.5096465391317,,,
+Egypt,Main market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2024,1553.251930558471,2021.0,387.5096465391317,1165.742
+Jordan,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2017,677.6871869639386,,,
+Jordan,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2021,4167.338806956221,2017.0,677.6871869639386,3489.652
+Jordan,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2024,15468.8038013481,2021.0,4167.338806956221,11301.465
+Morocco,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2021,131.8150201868665,,,
+Saudi Arabia,Advanced benchmark,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2021,62157.97458922631,,,
+Saudi Arabia,Advanced benchmark,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2024,104483.0519598692,2021.0,62157.97458922631,42325.077
+Tunisia,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2017,278.7774773376765,,,
+Tunisia,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2021,1099.406922857499,2017.0,278.7774773376765,820.629
+Tunisia,Peer market,"Number of mobile and internet banking transactions (during the reference year), Per 1,000 adults","per 1,000 adults",2024,1739.18247823596,2021.0,1099.406922857499,639.776
+Egypt,Main market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2017,141.0589192761496,,,
+Egypt,Main market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2021,366.3373635720865,2017.0,141.0589192761496,225.278
+Egypt,Main market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2024,688.2508061865032,2021.0,366.3373635720865,321.913
+Jordan,Peer market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2017,31.87911202746532,,,
+Jordan,Peer market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2021,225.6393196255297,2017.0,31.87911202746532,193.76
+Jordan,Peer market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2024,378.6425112268861,2021.0,225.6393196255297,153.003
+Morocco,Peer market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2021,200.6487598968679,,,
+Morocco,Peer market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2024,486.9813803111534,2021.0,200.6487598968679,286.333
+Tunisia,Peer market,"Number of registered mobile money accounts, Per 1,000 adults","per 1,000 adults",2024,39.71318765676237,,,

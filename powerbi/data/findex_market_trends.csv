@@ -1,0 +1,82 @@
+country,country_role,indicator_code,indicator_name,year,value,previous_year,previous_value,change_from_previous_observed_pp
+Algeria,Peer market,account.t.d,Account ownership,2017,0.427766256472914,,,
+Algeria,Peer market,account.t.d,Account ownership,2021,0.440970221449773,2017.0,0.427766256472914,1.32
+Algeria,Peer market,account.t.d,Account ownership,2024,0.352901069097173,2021.0,0.440970221449773,-8.81
+Egypt,Main market,account.t.d,Account ownership,2017,0.327843607129398,,,
+Egypt,Main market,account.t.d,Account ownership,2021,0.274440057212001,2017.0,0.327843607129398,-5.34
+Egypt,Main market,account.t.d,Account ownership,2024,0.431134368034247,2021.0,0.274440057212001,15.67
+Jordan,Peer market,account.t.d,Account ownership,2017,0.424930235275587,,,
+Jordan,Peer market,account.t.d,Account ownership,2021,0.471196643097766,2017.0,0.424930235275587,4.63
+Jordan,Peer market,account.t.d,Account ownership,2024,0.464573138115455,2021.0,0.471196643097766,-0.66
+Morocco,Peer market,account.t.d,Account ownership,2017,0.28644459176479,,,
+Morocco,Peer market,account.t.d,Account ownership,2021,0.443728342386603,2017.0,0.28644459176479,15.73
+Morocco,Peer market,account.t.d,Account ownership,2024,0.443863291468524,2021.0,0.443728342386603,0.01
+Saudi Arabia,Advanced benchmark,account.t.d,Account ownership,2017,0.716981165899467,,,
+Saudi Arabia,Advanced benchmark,account.t.d,Account ownership,2021,0.74320746724648,2017.0,0.716981165899467,2.62
+Saudi Arabia,Advanced benchmark,account.t.d,Account ownership,2024,0.788409517231945,2021.0,0.74320746724648,4.52
+Tunisia,Peer market,account.t.d,Account ownership,2017,0.369065671682783,,,
+Tunisia,Peer market,account.t.d,Account ownership,2021,0.36853236511337,2017.0,0.369065671682783,-0.05
+Tunisia,Peer market,account.t.d,Account ownership,2024,0.378444860328559,2021.0,0.36853236511337,0.99
+United Arab Emirates,Supplementary benchmark,account.t.d,Account ownership,2017,0.882103911038117,,,
+United Arab Emirates,Supplementary benchmark,account.t.d,Account ownership,2021,0.857421930087712,2017.0,0.882103911038117,-2.47
+United Arab Emirates,Supplementary benchmark,account.t.d,Account ownership,2024,0.7310292550631,2021.0,0.857421930087712,-12.64
+Algeria,Peer market,borrow.any.t.d,Borrowed any money,2017,0.288700674134992,,,
+Algeria,Peer market,borrow.any.t.d,Borrowed any money,2021,0.3759191125686,2017.0,0.288700674134992,8.72
+Algeria,Peer market,borrow.any.t.d,Borrowed any money,2024,0.341381414284105,2021.0,0.3759191125686,-3.45
+Egypt,Main market,borrow.any.t.d,Borrowed any money,2017,0.490587986387475,,,
+Egypt,Main market,borrow.any.t.d,Borrowed any money,2021,0.464418889124725,2017.0,0.490587986387475,-2.62
+Egypt,Main market,borrow.any.t.d,Borrowed any money,2024,0.560872485997733,2021.0,0.464418889124725,9.65
+Jordan,Peer market,borrow.any.t.d,Borrowed any money,2017,0.476769055554652,,,
+Jordan,Peer market,borrow.any.t.d,Borrowed any money,2021,0.535250701537721,2017.0,0.476769055554652,5.85
+Jordan,Peer market,borrow.any.t.d,Borrowed any money,2024,0.652157130109157,2021.0,0.535250701537721,11.69
+Morocco,Peer market,borrow.any.t.d,Borrowed any money,2017,0.264710059661177,,,
+Morocco,Peer market,borrow.any.t.d,Borrowed any money,2021,0.57039662936349,2017.0,0.264710059661177,30.57
+Morocco,Peer market,borrow.any.t.d,Borrowed any money,2024,0.576170489159961,2021.0,0.57039662936349,0.58
+Saudi Arabia,Advanced benchmark,borrow.any.t.d,Borrowed any money,2017,0.543137700819369,,,
+Saudi Arabia,Advanced benchmark,borrow.any.t.d,Borrowed any money,2021,0.597271960770624,2017.0,0.543137700819369,5.41
+Saudi Arabia,Advanced benchmark,borrow.any.t.d,Borrowed any money,2024,0.556948316914372,2021.0,0.597271960770624,-4.03
+Tunisia,Peer market,borrow.any.t.d,Borrowed any money,2017,0.450862233761047,,,
+Tunisia,Peer market,borrow.any.t.d,Borrowed any money,2021,0.505834020543242,2017.0,0.450862233761047,5.5
+Tunisia,Peer market,borrow.any.t.d,Borrowed any money,2024,0.435067900468424,2021.0,0.505834020543242,-7.08
+United Arab Emirates,Supplementary benchmark,borrow.any.t.d,Borrowed any money,2017,0.638642236789374,,,
+United Arab Emirates,Supplementary benchmark,borrow.any.t.d,Borrowed any money,2021,0.435062262094794,2017.0,0.638642236789374,-20.36
+Algeria,Peer market,g20.any,Made or received digital payment,2017,0.259755215146925,,,
+Algeria,Peer market,g20.any,Made or received digital payment,2021,0.337417672200374,2017.0,0.259755215146925,7.77
+Algeria,Peer market,g20.any,Made or received digital payment,2024,0.130934071096339,2021.0,0.337417672200374,-20.65
+Egypt,Main market,g20.any,Made or received digital payment,2017,0.228320485696311,,,
+Egypt,Main market,g20.any,Made or received digital payment,2021,0.201970288405593,2017.0,0.228320485696311,-2.64
+Egypt,Main market,g20.any,Made or received digital payment,2024,0.363274534281143,2021.0,0.201970288405593,16.13
+Jordan,Peer market,g20.any,Made or received digital payment,2017,0.325323053709328,,,
+Jordan,Peer market,g20.any,Made or received digital payment,2021,0.363697384331537,2017.0,0.325323053709328,3.84
+Jordan,Peer market,g20.any,Made or received digital payment,2024,0.382264798177564,2021.0,0.363697384331537,1.86
+Morocco,Peer market,g20.any,Made or received digital payment,2017,0.167148762012259,,,
+Morocco,Peer market,g20.any,Made or received digital payment,2021,0.303017411414985,2017.0,0.167148762012259,13.59
+Morocco,Peer market,g20.any,Made or received digital payment,2024,0.319918303462495,2021.0,0.303017411414985,1.69
+Saudi Arabia,Advanced benchmark,g20.any,Made or received digital payment,2017,0.611679190586718,,,
+Saudi Arabia,Advanced benchmark,g20.any,Made or received digital payment,2021,0.73454579640307,2017.0,0.611679190586718,12.29
+Saudi Arabia,Advanced benchmark,g20.any,Made or received digital payment,2024,0.757246348679077,2021.0,0.73454579640307,2.27
+Tunisia,Peer market,g20.any,Made or received digital payment,2017,0.294126385875702,,,
+Tunisia,Peer market,g20.any,Made or received digital payment,2021,0.276944988729278,2017.0,0.294126385875702,-1.72
+Tunisia,Peer market,g20.any,Made or received digital payment,2024,0.236811592605673,2021.0,0.276944988729278,-4.01
+United Arab Emirates,Supplementary benchmark,g20.any,Made or received digital payment,2017,0.840400657392158,,,
+United Arab Emirates,Supplementary benchmark,g20.any,Made or received digital payment,2021,0.766119280152843,2017.0,0.840400657392158,-7.43
+Algeria,Peer market,save.any.t.d,Saved any money,2017,0.386612666277264,,,
+Algeria,Peer market,save.any.t.d,Saved any money,2021,0.456877651050778,2017.0,0.386612666277264,7.03
+Algeria,Peer market,save.any.t.d,Saved any money,2024,0.380608732279768,2021.0,0.456877651050778,-7.63
+Egypt,Main market,save.any.t.d,Saved any money,2017,0.306392511396371,,,
+Egypt,Main market,save.any.t.d,Saved any money,2021,0.207860694471219,2017.0,0.306392511396371,-9.85
+Egypt,Main market,save.any.t.d,Saved any money,2024,0.230036909279873,2021.0,0.207860694471219,2.22
+Jordan,Peer market,save.any.t.d,Saved any money,2017,0.451707554751416,,,
+Jordan,Peer market,save.any.t.d,Saved any money,2021,0.241415492886164,2017.0,0.451707554751416,-21.03
+Jordan,Peer market,save.any.t.d,Saved any money,2024,0.316055780126099,2021.0,0.241415492886164,7.46
+Morocco,Peer market,save.any.t.d,Saved any money,2017,0.213594272351452,,,
+Morocco,Peer market,save.any.t.d,Saved any money,2021,0.346867110294518,2017.0,0.213594272351452,13.33
+Morocco,Peer market,save.any.t.d,Saved any money,2024,0.216608809574067,2021.0,0.346867110294518,-13.03
+Saudi Arabia,Advanced benchmark,save.any.t.d,Saved any money,2017,0.441932638751051,,,
+Saudi Arabia,Advanced benchmark,save.any.t.d,Saved any money,2021,0.63026741484836,2017.0,0.441932638751051,18.83
+Saudi Arabia,Advanced benchmark,save.any.t.d,Saved any money,2024,0.571088391712506,2021.0,0.63026741484836,-5.92
+Tunisia,Peer market,save.any.t.d,Saved any money,2017,0.39396338619623,,,
+Tunisia,Peer market,save.any.t.d,Saved any money,2021,0.44687274115615,2017.0,0.39396338619623,5.29
+Tunisia,Peer market,save.any.t.d,Saved any money,2024,0.482495360760963,2021.0,0.44687274115615,3.56
+United Arab Emirates,Supplementary benchmark,save.any.t.d,Saved any money,2017,0.568147882893329,,,
+United Arab Emirates,Supplementary benchmark,save.any.t.d,Saved any money,2021,0.335979731139081,2017.0,0.568147882893329,-23.22
