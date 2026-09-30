@@ -2,7 +2,11 @@
 
 **From Financial Access to Digital Usage: Identifying Underserved Segments and Market Opportunities**
 
-A portfolio business case for a **hypothetical Strategy & Growth team at a regional fintech or digital bank**. Official demand-side, supply-side, and administrative data become a validated SQL-to-Power BI workflow for understanding Egypt's financial inclusion and identifying questions for product and market research.
+An **end-to-end data analytics portfolio case study** asking whether account access translates into digital usage in Egypt and selected MENA markets. I prepared official public data, built a validated SQLite/SQL analytical layer, and developed a **four-page Power BI report**.
+
+**Python · Pandas · SQL · SQLite · Power BI · Power Query · DAX · Jupyter Notebook**
+
+[Key findings](#key-findings) · [What I built](#what-i-built) · [Validation](#validation) · [Reproduce the analysis](#how-to-reproduce)
 
 ## Dashboard Preview
 
@@ -10,11 +14,25 @@ A portfolio business case for a **hypothetical Strategy & Growth team at a regio
 
 [View the four-page PDF](powerbi/Financial_Inclusion_Analytics_Preview.pdf) · [Download the Power BI report](powerbi/Financial_Inclusion_Analytics.pbix)
 
+## Key Findings
+
+The first three findings use **Egypt's 2024 Global Findex observations**; CBE provides separate 2025 context. **pp = percentage points.**
+
+| Evidence | Business interpretation |
+|---|---|
+| Egypt's 2024 account ownership is **43.1%**, versus **36.3%** digital-payment usage. | The **6.8 percentage-point** difference compares population-level rates; it is not an individual conversion rate. |
+| Digital-payment usage is **9.6 pp above** the selected peer mean. | Egypt outperforms the unweighted mean of Morocco, Tunisia, Algeria, and Jordan on this measure. |
+| Any borrowing minus formal borrowing is **45.7 pp**; the saving formalization gap is **9.2 pp**. | These differences warrant further investigation; they are population-level comparisons, not addressable-market estimates. |
+| CBE reports **77.6%** financial inclusion, **60.0 million** registered mobile wallets, and **EGP 4.0 trillion** in wallet transactions for 2025. | Recent administrative evidence adds Egypt-specific context. Registered wallets are neither unique people nor necessarily active users. |
+
+**CBE's 77.6% and Findex's 43.1% are not directly equivalent.** CBE uses an active transactional-account definition with broader administrative coverage across banks, Egypt Post, mobile wallets, and prepaid cards. Findex is survey-based. The two rates are not a continuous series or a direct measure of growth between 2024 and 2025.
+
 ## Business Problem
 
-Account ownership alone does not explain digital financial usage. The analysis examines Egypt's development, regional position, demographic differences, and saving and borrowing formalization, alongside digital readiness and financial infrastructure. These patterns help prioritize further investigation; they do not establish product demand or causality.
+Account ownership alone does not explain digital financial usage. For a **hypothetical Strategy & Growth team at a regional fintech or digital bank**, this portfolio case examines Egypt's development, regional position, demographic differences, and saving and borrowing formalization, alongside digital readiness and financial infrastructure. These patterns help prioritize further investigation; they do not establish product demand or causality.
 
-## Key Questions
+<details>
+<summary>Questions investigated</summary>
 
 - How has inclusion evolved in Egypt, and does account access translate into digital usage?
 - How does Egypt compare with selected MENA peers?
@@ -23,16 +41,7 @@ Account ownership alone does not explain digital financial usage. The analysis e
 - How does digital readiness compare with financial usage?
 - What do infrastructure indicators and recent CBE data add?
 
-## Key Findings
-
-| Evidence | Business interpretation |
-|---|---|
-| Egypt's 2024 account ownership is **43.1%**, versus **36.3%** digital-payment usage. | The **6.8 percentage-point** difference warrants investigation of usage barriers; it is not a customer conversion rate. |
-| Digital-payment usage is **9.6 pp above** the selected peer mean. | Egypt outperforms the unweighted mean of Morocco, Tunisia, Algeria, and Jordan on this measure. |
-| Saving and borrowing formalization gaps are **9.2 pp** and **45.7 pp**. | Any-versus-formal activity differs substantially, especially for borrowing; the gaps are population-level comparisons, not addressable-market estimates. |
-| CBE reports **77.6%** financial inclusion, **60.0 million** registered mobile wallets, and **EGP 4.0 trillion** in wallet transactions for 2025. | Recent administrative evidence adds Egypt-specific context. Registered wallets are neither unique people nor necessarily active users. |
-
-**CBE's 77.6% and Findex's 43.1% are not directly equivalent.** CBE uses an active transactional-account definition with broader administrative coverage across banks, Egypt Post, mobile wallets, and prepaid cards. Findex is survey-based. The two rates are not a continuous series or a direct measure of growth between 2024 and 2025.
+</details>
 
 ## Data Sources
 
@@ -46,39 +55,26 @@ Raw downloads are **not bundled**. [Source filenames, retrieval instructions, an
 
 ## Analytical Pipeline
 
-```text
-Official data sources
-        ↓
-Python / Jupyter
-        ↓
-Clean processed datasets
-        ↓
-SQLite database
-        ↓
-SQL validation & analysis
-        ↓
-SQL analytical views
-        ↓
-Power BI-ready exports
-        ↓
-Power BI dashboard → business insights
-```
+Official public data → **Python/Pandas preparation** → processed datasets → **SQLite/SQL analysis** → eight reusable SQL views → validated CSV exports → **Power BI** → documented GitHub repository.
 
-SQL is the analytical layer that produces all eight dashboard input CSVs. Notebook 05 checks their equivalence to the approved SQL analyses.
+The three source families remain separate tables, preserving their different definitions. SQL produces all eight dashboard input CSVs; [notebook 05](notebooks/05_sql_to_powerbi_exports.ipynb) checks their equivalence to the approved SQL analyses.
 
-## Tools & Skills
+## What I Built
 
-**Python · Pandas · Jupyter Notebook · SQL · SQLite · Power BI · DAX · Power Query**
+| Layer | Implementation and evidence |
+|---|---|
+| Python/Pandas preparation | Inspected sources, filtered countries and indicators, and reshaped observations while retaining codes, units and demographic labels. CBE values were transcribed with source-page references. [Findex](notebooks/01_data_inspection.ipynb) · [IMF](notebooks/02_imf_fas_inspection.ipynb) · [CBE](notebooks/03_cbe_data_preparation.ipynb). |
+| SQLite/SQL analysis | Built three source tables with unique observation-key indexes; seven SQL scripts cover trends, peer means, signed demographic gaps, formalization, digital readiness and infrastructure. [Database setup](notebooks/04_sql_database_setup.ipynb) · [SQL scripts](sql/). |
+| Analytical handoff and reporting | Defined [eight SQL views](sql/07_powerbi_views.sql), validated their [CSV exports](powerbi/data/), and built the four-page report using Power Query and DAX. Power BI is the final reporting layer. |
+| Documentation and reproducibility | Recorded source definitions, coverage, calculation rules and rerun steps in the [methodology](docs/methodology.md), [data dictionary](docs/data_dictionary.md) and [source-retrieval guide](data/raw/README.md). |
 
-Data cleaning, validation, transformation, modeling, visualization, and business analysis.
+## Validation
 
-## Data Preparation
+- **Before analysis:** the notebooks check missingness, observation-key duplicates, schemas and source-specific value bounds. Missing observations are excluded without imputation; unavailable values remain distinct from zero.
+- **Inside SQLite:** [SQL validation](sql/01_data_validation.sql) checks critical nulls, duplicate keys, ranges and coverage. Database setup verifies table read-backs and database integrity.
+- **At the Power BI handoff:** [notebook 05](notebooks/05_sql_to_powerbi_exports.ipynb) compares all eight views with SQL 02–06, reopens each exported CSV to check its schema and values, and verifies that source-table rows remain unchanged.
 
-Country filtering, indicator selection, and long-format restructuring preserve source codes and demographic dimensions. Missing observations are excluded without imputation. IMF coverage is assessed before selecting normalized infrastructure measures; original units remain intact. CBE chart labels are transcribed with source-page references and separate definitions. See [methodology](docs/methodology.md) and [data dictionary](docs/data_dictionary.md).
-
-## SQL Analysis
-
-The [seven SQL scripts](sql/) cover validation, national trends, peer means, signed demographic gaps, gap-magnitude ranking, behavioral gaps, digital readiness, infrastructure rankings, historical checkpoints, and CBE trends. Script 07 defines the eight Power BI views. **NULL observations remain unavailable rather than being converted to zero.**
+**NULL observations remain unavailable rather than being converted to zero.** These checks validate the analytical workflow, not causal or commercial conclusions. [Validation details](docs/methodology.md#reproducibility-and-validation).
 
 ## Power BI Dashboard
 
@@ -125,8 +121,10 @@ Egypt is the focal market; four selected peers form an **unweighted reporting-co
 
 ## How to Reproduce
 
+**Review without rerunning:** open the [PDF report](powerbi/Financial_Inclusion_Analytics_Preview.pdf), [notebooks](notebooks/), [SQLite database](data/processed/financial_inclusion.db) or [analytical exports](powerbi/data/). Raw downloads are not needed to inspect the included results.
+
 1. Obtain the official source files listed in [data/raw/README.md](data/raw/README.md).
-2. Create a Python environment and run `python -m pip install -r requirements.txt` from the repository root. Start `jupyter notebook` and open the notebooks in `notebooks/`; their working directory must be `notebooks/`.
+2. Create a Python environment and run `python -m pip install -r requirements.txt` from the repository root using the pinned [dependencies](requirements.txt). The [tested environment](docs/methodology.md#reproducibility-and-validation) is documented separately; Power BI Desktop is a separate Windows application. Start `jupyter notebook` and open the notebooks in `notebooks/`; their working directory must be `notebooks/`.
 3. Run notebooks **01–03** in order to prepare the source tables.
 4. Run **04** to rebuild SQLite. Execute SQL files **01–06** against `data/processed/financial_inclusion.db` using a SQLite client, inspecting each result set.
 5. Run **05** to create the views from script 07, validate SQL equivalence, and export all eight Power BI CSVs.
