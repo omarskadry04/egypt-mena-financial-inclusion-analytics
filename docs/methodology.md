@@ -4,6 +4,8 @@
 
 This portfolio business case supports a hypothetical **Strategy & Growth team at a regional fintech or digital bank**. It examines financial access, digital usage, underserved segments, formalization, digital readiness, and supply-side infrastructure in Egypt and selected MENA markets. No real institution commissioned the project. Findings are descriptive evidence for further investigation, not causal estimates, customer-level targeting, forecasts, or market-size estimates.
 
+References to "opportunity" and "underserved" identify questions for further investigation. Descriptive differences alone do not establish unmet demand, commercial opportunity, causality, addressable markets, or individual-level behavior.
+
 The implementation is defined by the [five notebooks](../notebooks/) and [seven SQL scripts](../sql/). This document describes their existing logic rather than introducing alternative calculations.
 
 ## Country framework
@@ -15,7 +17,7 @@ The implementation is defined by the [five notebooks](../notebooks/) and [seven 
 | Advanced benchmark | Saudi Arabia | Separate comparator; excluded from the peer mean. |
 | Supplementary benchmark | United Arab Emirates | Retained where available; detailed indicator coverage is weaker. Excluded from the peer mean and the six-market IMF ranking/checkpoint views. |
 
-The six main comparison countries are Egypt, the four peers, and Saudi Arabia. `reporting_peers` and `reporting_countries` make the denominator visible. These are selected-market comparisons, not estimates for MENA as a whole. Peer membership is a project framework, not a statistically optimized match.
+The six main comparison countries are Egypt, the four peers, and Saudi Arabia. `reporting_peers` and `reporting_countries` make the denominator visible. These are selected-market comparisons, not estimates for MENA as a whole. Peer membership is a project framework, not a statistically optimized match. Egypt's +9.6 pp digital-payment comparison is against this specified unweighted peer mean; it does not imply that Egypt exceeds every selected peer.
 
 ## Time framework
 
